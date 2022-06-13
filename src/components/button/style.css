@@ -1,0 +1,16 @@
+
+
+.button {
+    color: white;
+    background-color: black;
+    width: fit-content;
+    padding: 5px 10px;
+}
+
+.button_big {
+    background-color: yellow;
+    width: fit-content;
+    padding: 5px 10px;
+    color: black;
+    border: 1px solid black;
+}
